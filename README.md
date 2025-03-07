@@ -1,31 +1,31 @@
-# Mein Portfolio 🎨🚀 
+# My Portfolio 🎨🚀
 
-Willkommen in meinem Portfolio! Hier findest du eine Sammlung meiner Projekte aus den Bereichen **Development** und **Design**.
+Welcome to my portfolio! Here you'll find a collection of my projects in **Development** and **Design**.
 
-## 📌 Über mich
-Ich bin ein vielseitig interessierter Entwickler und Designer mit Fokus auf:
+## 📌 About Me
+I am a versatile developer and designer with a focus on:
 - **Game Development** (Godot, Unity, GDScript, C#)
 - **Web Development** (HTML, CSS, JavaScript)
 - **UI/UX Design** (Figma, Pixel Art)
 
-Ich liebe es, kreative und funktionale Projekte zu entwickeln und mich ständig weiterzuentwickeln. 🚀
+I love creating both functional and creative projects while constantly improving my skills. 🚀
 
 ## 🖥️ Development
-Hier findest du meine Programmierprojekte, darunter Spiele, Web-Anwendungen und Tools.
+Here you can find my programming projects, including games, web applications, and tools.
 
-🔹 [Projekt 1] – Beschreibung deines Projekts
-🔹 [Projekt 2] – Beschreibung deines Projekts
+🔹 [Project 1] – Description of your project
+🔹 [Project 2] – Description of your project
 
 ## 🎨 Design
-Hier teile ich meine Arbeiten aus den Bereichen UI/UX, Pixel Art und Game Assets.
+This section showcases my work in UI/UX, Pixel Art, and Game Assets.
 
-🖌️ [Design-Projekt 1] – Beschreibung
-🖌️ [Design-Projekt 2] – Beschreibung
+🖌️ [Design Project 1] – Description
+🖌️ [Design Project 2] – Description
 
-## 📫 Kontakt
-Falls du Fragen hast oder zusammenarbeiten möchtest, erreichst du mich über:
-- **GitHub:** [Dein GitHub-Link]
+## 📫 Contact
+If you have any questions or want to collaborate, you can reach me via:
+- **GitHub:** [Your GitHub Link]
 - **Itch.io:** https://ibrahim012.itch.io/
 
 ---
-*Dieses Portfolio wird regelmäßig aktualisiert – schau gerne wieder vorbei!*
+*This portfolio is regularly updated – feel free to check back!*
